@@ -1,7 +1,7 @@
 # Dionysus
 <!-- PROJECT SHIELDS -->
 
-[![Contributors][contributors-shield]][contributors-url]
+[![Contributors][contributors-shield]][https://github.com/Alex-McAvoy/Legends-of-the-Three-Kingdoms-Offline-Assistant/graphs/contributors]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
