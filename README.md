@@ -1,6 +1,7 @@
 # Dionysus
 <!-- PROJECT SHIELDS -->
-[![Contributors][contributors-shield]][contributors-url]
+![GitHub contributors](https://img.shields.io/github/contributors/Alex-McAvoy/Dionysus)
+
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
