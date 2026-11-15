@@ -158,3 +158,8 @@ Dionysus/
 [forks-shield]: https://img.shields.io/github/forks/Alex-McAvoy/Dionysus.svg?style=flat-square
 [forks-url]: https://github.com/Alex-McAvoy/Dionysus/network/members
 [stars-shield]: https://img.shields.io/github/stars/Alex-McAvoy/Dionysus.svg?style=flat-square
+[stars-url]: https://github.com/Alex-McAvoy/Dionysus/stargazers
+[issues-shield]: https://img.shields.io/github/issues/Alex-McAvoy/Dionysus.svg?style=flat-square
+[issues-url]: https://img.shields.io/github/issues/Alex-McAvoy/Dionysus.svg
+[download-shield]: https://img.shields.io/github/downloads/Alex-McAvoy/Dionysus/total.svg
+[download-url]: https://tooomm.github.io/github-release-stats/?username=Alex-McAvoy&repository=Dionysus
