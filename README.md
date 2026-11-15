@@ -1,5 +1,4 @@
 # Dionysus
-
 <!-- PROJECT SHIELDS -->
 
 [![Contributors][contributors-shield]][contributors-url]
