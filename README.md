@@ -1,11 +1,12 @@
 # Dionysus
 <!-- PROJECT SHIELDS -->
-![GitHub contributors](https://img.shields.io/github/contributors/Alex-McAvoy/Dionysus)
 
+[![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![Downloads][Download-shield]][download-url]
+
 <!-- PROJECT LOGO -->
 <br />
 
@@ -145,7 +146,15 @@ Dionysus/
 
 暂无。
 
+
 ## 鸣谢
 
 - [uni-app](https://uniapp.dcloud.net.cn/)
 - [HBuilderX](https://www.dcloud.io/hbuilderx.html)
+
+<!-- links -->
+[contributors-shield]: https://img.shields.io/github/contributors/Alex-McAvoy/Dionysus.svg?style=flat-square
+[contributors-url]: https://github.com/Alex-McAvoy/Dionysus/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/Alex-McAvoy/Dionysus.svg?style=flat-square
+[forks-url]: https://github.com/Alex-McAvoy/Dionysus/network/members
+[stars-shield]: https://img.shields.io/github/stars/Alex-McAvoy/Dionysus.svg?style=flat-square
